@@ -21,7 +21,7 @@ Welcome to the Pokemon App! This web application allows you to explore informati
 
 1. Clone the repository:
 
-git clone https://github.com/Bhavya022/pokemon-app.git
+git clone https://github.com/Bhavya022/Pokemon-app-.git
 
 csharp
 Copy code
