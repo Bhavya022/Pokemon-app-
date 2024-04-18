@@ -2,6 +2,7 @@
 # Pokemon App
 
 Welcome to the Pokemon App! This web application allows you to explore information about various Pokemon.
+C:\Users\Dell\Pictures\Screenshots\Screenshot (221).png
 
 ## Features
 
