@@ -2,7 +2,8 @@
 # Pokemon App
 
 Welcome to the Pokemon App! This web application allows you to explore information about various Pokemon.
-![Screenshot (221)](https://github.com/Bhavya022/Pokemon-app-/assets/115460646/c59a0b25-2afd-4dea-a644-f536af3d36a0)
+![Screenshot (223)](https://github.com/Bhavya022/Pokemon-app-/assets/115460646/4813f655-f222-4035-ba62-7d035829a8d8)
+
 ## Features
 
 - **Search:** Use the search bar to find specific Pokemon by name.
