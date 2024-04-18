@@ -1,0 +1,44 @@
+/* RandomPokemonCard.css */
+
+.random-pokemon-card {
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin-top: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.random-pokemon-card h2 {
+  font-size: 1.5rem;
+  margin-bottom: 12px;
+}
+
+.pokemon-info {
+  display: flex;
+  align-items: center;
+}
+
+.pokemon-info img {
+  width: 100px;
+  height: 100px;
+  margin-right: 16px;
+}
+
+.pokemon-details p {
+  margin: 6px 0;
+}
+/* RandomPokemonCard.css */
+
+.random-pokemon-card {
+  border: 2px solid #f0f0f0;
+  border-radius: 8px;
+  padding: 16px;
+  margin-top: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.random-pokemon-card p {
+  color: #333; /* Text color */
+  font-size: 14px; /* Font size */
+  margin: 8px 0; /* Margin top and bottom */
+}
